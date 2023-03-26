@@ -6,7 +6,7 @@ st.set_page_config(layout="wide", page_title="My Portfolio", page_icon="💼")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image('g702ww6o.png')
+    st.image('imagesonly/g702ww6o.png')
 
 with col2:
     st.title("Harshpreet Kaur")
